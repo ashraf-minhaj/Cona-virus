@@ -15,8 +15,8 @@ import pyautogui          #for mouse and keyboard action
 from random import randint  #to generate random number
 
 #images that are to be used
-toilet_image = "D:\\works\\viruses\\kona_virus\\toilet.gif"  #1st image (road rus toilet image)
-hot_girl = "D:\\works\\viruses\\kona_virus\\hot.gif"         #2nd image (dirty hot image)
+toilet_image = "D:\\works\\viruses\\cona_virus\\toilet.gif"  #1st image (road rus toilet image)
+hot_girl = "D:\\works\\viruses\\cona_virus\\hot.gif"         #2nd image (dirty hot image)
 
 
 
